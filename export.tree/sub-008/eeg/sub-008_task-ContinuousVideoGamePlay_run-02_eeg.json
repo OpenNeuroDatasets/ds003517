@@ -1,0 +1,19 @@
+{
+  "InstitutionName": "University of New Mexico",
+  "InstitutionalDepartmentName": "Psychology",
+  "PowerLineFrequency": 60,
+  "ManufacturersModelName": "Brain Vision ActiChamp",
+  "EEGGround": "AFz",
+  "EEGReference": "CPz",
+  "EEGChannelCount": 64,
+  "TaskName": "ContinuousVideoGamePlay",
+  "MiscChannelCount": 65,
+  "RecordingType": "continuous",
+  "RecordingDuration": 1859.15,
+  "SamplingFrequency": 500,
+  "SubjectArtefactDescription": "EEG started at game 102; had to edit log",
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "SoftwareFilters": "n/a"
+}

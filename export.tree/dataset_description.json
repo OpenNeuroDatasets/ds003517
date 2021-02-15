@@ -1,0 +1,13 @@
+{
+    "Name": "ContinuousVideoGamePlay",
+    "ReferencesAndLinks": [
+        "PMID: 26952196"
+    ],
+    "Authors": [
+        "James F Cavanagh",
+        "Joel Castellanos"
+    ],
+    "License": "CC0",
+    "BIDSVersion": "1.1.1",
+    "DatasetDOI": "10.18112/openneuro.ds003517.v1.0.0"
+}
