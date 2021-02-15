@@ -1,0 +1,10 @@
+{
+  "Name": "ContinuousVideoGamePlay",
+  "ReferencesAndLinks": ["PMID: 26952196"],
+  "Authors": [
+    "James F Cavanagh",
+    "Joel Castellanos"
+  ],
+  "License": "",
+  "BIDSVersion": "1.1.1"
+}
